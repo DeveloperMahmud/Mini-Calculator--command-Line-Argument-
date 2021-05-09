@@ -20,5 +20,5 @@ if (choice === 'ADD'){
 }else if(choice === 'DIV'){
     console.log(div(a,b));
 }else{
-    console.log('Invalid Inputs!');
+    console.log('Invalid Your Choice!');
 }
